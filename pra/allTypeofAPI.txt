@@ -1,0 +1,6 @@
+1::https://fakerjs.dev/  --> random api
+2::https://http.dog/ -->status code
+3::https://api.nasa.gov/ 
+4::pantry  -->tiny data base create
+5::world new api 
+6::
