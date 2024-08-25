@@ -74,6 +74,37 @@ ProjectIDEAS :::::::::::::------------->
 12:Python 
 13::Opps 
 
+::::: ---------- BlockChain Fundamental all ------------<><><><><><>
+
+1::BlockChain 
+
+2::Bitcoin 
+
+3::CryptoGraphy
+
+4:: Ethereum
+
+5::NFT ERC-721
+
+6::ERC-20 
+
+7::MetaverBlockChain
+
+8::Defi  ------- Important  
+
+9::Solan BlockChain
+
+10::IPFS BlockChain
+
+11::ZkSync
+
+12::Bridges 
+
+13::zkEVM
+
+14::ZKP  -- Zero-Knowledge-Proof
+
+
 
 
 
