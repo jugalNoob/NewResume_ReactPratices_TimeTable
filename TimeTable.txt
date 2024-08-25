@@ -1,0 +1,172 @@
+
+|||||||||||||  This is first weeks
+
+
+1  --><>sunday
+....MERN project 
+
+
+
+...IPFS -->Project
+..Solidity Project image upload contract 
+
+
+2  --> Monday
+
+..Algo 
+..Javascript
+...burp suite
+
+
+
+...Solidity  practics
+
+...english practics
+
+
+
+3 ->>Tuesday
+
+..Algo 
+..React.js
+...burp suite
+
+..Solidity Practics
+..english practices
+
+
+
+4  -->wednesday
+...algo
+..react.js
+..github
+
+..Solidity practices
+
+
+5 -->thursday
+..algo
+..node express
+..github
+
+
+..Solidity project
+
+
+
+6-->friday
+algo 
+
+react.js and javascript create logices
+....MERN project 
+
+
+Solidity  projects
+ 
+
+
+7-->saturday
+
+....MERN project 
+..Solidity Practies question 
+
+
+...Btc interview 
+
+
+
+
+
+
+||||||||||||| The New TimeTable  ------------------------->>>
+
+
+1  --><>sunday  --->
+
+..algo question logices 
+
+.. node.js question 
+
+
+project  --> MarketPlace NFT
+
+
+
+
+
+
+2  --> Monday
+
+.algo 
+
+.javascript 
+
+
+project  -->ERC-20
+
+
+
+
+
+3 ->>Tuesday
+
+.algo 
+
+.javascript
+
+
+project --> ERC-->20
+
+
+
+
+4  -->wednesday
+
+.algo 
+
+.react.js
+
+project --> blockChain Question
+
+
+
+5 -->thursday
+
+..algo 
+
+..react.js 
+
+project --> ERC-->20
+
+
+
+6-->friday
+
+..algo 
+
+node.js express
+
+project  --> MarketPlace NFT
+
+
+
+
+
+7-->saturday
+
+..algo  question and Logices
+
+..node.js question and logices
+
+
+BlockChain --> Question 
+
+
+
+ 
+
+
+
+
+
+
