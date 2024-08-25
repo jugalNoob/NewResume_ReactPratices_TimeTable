@@ -1,5 +1,11 @@
 ProjectIDEAS :::::::::::::------------->
 
+00::DNS Server --> Important
+00::Redis  -->> Important 
+00::Cloid IDE
+00:::Live streaming Platfrom (WebRTC , FFMPRG , RTMP)
+00::Dynamic Reverse Proxy 
+
 1::Todo applications
 2::expense applications
 3:flashcard applications
