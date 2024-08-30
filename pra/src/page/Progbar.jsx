@@ -1,10 +1,23 @@
 import React, { useEffect, useState } from 'react';
+import { useParams } from 'react-router-dom';
 import "./style/progessbar.css";
 
 function Progbar() {
 
-    const [filled , setFiiled]=useState(0)
 
+    //get url  ------------------------ how to get url in react.js
+    const { id } = useParams(); // Access the id from the URL
+    const fullUrl = window.location.href; // Get the full URL
+
+    console.log(id, "id"); // Logs the id parameter
+    console.log(fullUrl, "full URL"); // Logs the full URL
+
+
+
+
+// progessbar  ----------------------------
+
+    const [filled , setFiiled]=useState(0)
     const [run , setRun]=useState()
 
 

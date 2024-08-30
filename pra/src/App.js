@@ -2,10 +2,15 @@ import React from 'react'
 import {
   createBrowserRouter, RouterProvider
 } from 'react-router-dom'
+import API from "./page/API"
 import Error from "./page/Error"
 import Home from "./page/Home"
 import Product from "./page/Product"
 import Progbar from './page/Progbar'
+import Todo from './page/Todo'
+
+
+
 
 const router=createBrowserRouter([  /// install react router https://medium.com/@adebayosilas/introduction-to-react-router-v6-4-6-11-1-f56c7710282e
 {
@@ -28,8 +33,21 @@ errorElement:<Error/>
 },
 
 {
-  path: "pro",
+  path: "pro/:id",
   element: <Progbar /> 
+
+},
+
+{
+  path: "api",
+  element: <API /> 
+
+},
+
+{
+  
+  path: "todo",
+  element: <Todo /> 
 
 },
 ])
