@@ -1,0 +1,19 @@
+
+
+
+State Management Hooks :::::: --->
+
+useState:
+Manages state in functional components.
+Returns the current state and a function to update it.
+Useful for simple state logic.
+
+useReducer:
+An alternative to useState for managing complex state logic.
+Takes a reducer function and an initial state, returning the current state and a dispatch function.
+
+useSyncExternalStore:
+Used for subscribing to external stores and managing updates.
+Ensures that components stay in sync with external data sources (like Redux stores or other external state).
+
+

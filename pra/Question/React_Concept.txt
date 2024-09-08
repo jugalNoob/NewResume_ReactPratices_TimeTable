@@ -1,0 +1,101 @@
+0.0 every React Concept 
+
+1::components
+2::JSX
+3::Curly Braces
+4::Fragments
+5::Props
+6::children
+7::keys
+8::Rendering 
+9::Event Handing 
+10::state
+11:Controlled Components
+12::Hooks
+13::Purity
+14::Strict Mood
+15::Effect
+16::Refs
+17::Context
+18::Suspense
+19::Error Boundaries
+
+
+
+0.1 All React Hook Explained ?
+
+state Management ::::: ------>
+ useState
+ useReducer
+ useSyncExternalStore
+
+
+Ref Hooks ::::: ---->
+6:07 - useRef
+7:04 - useImperativeHandle
+
+
+Effect Hooks ::: ----> 
+
+3:34 - useEffect
+5:05 - useLayoutEffect
+5:45 - useInsertionEffect
+
+
+Context Hooks ::: ------->
+
+useContext  
+
+
+Performance Hook ::--->
+7:41 - useMemo
+8:18 - useCallback
+
+
+Random Hook :::: --> 
+
+10:51 - useDebugValue
+11:12 - useId
+
+
+Transition Hooks ::::::: ------->
+
+9:21 - useTransition
+10:15 - useDeferredValue
+
+
+
+
+
+
+
+
+
+
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
+
+0:00 - Intro
+0:26 - How to use React 19
+0:38 - React compiler
+0:58 - No memoization hooks
+1:38 - No forwardRef
+2:07 - use() hook
+2:27 - Fetch data with useEffect/use
+3:02 - Use context with useContext/use
+3:32 - Directives
+3:53 - Actions
+4:12 - Client Actions
+4:37 - useFormStatus() hook
+5:12 - useFormState() hook
+6:12 - useOptimistic() hook
+7:07 - Conclusion
+
+
+
+
+
+
+
