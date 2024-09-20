@@ -1,0 +1,84 @@
+
+Mobile hardware includes several key components that work together to power smartphones. Here are the main hardware components typically found in modern smartphones:
+
+1::System on Chip (SoC): The SoC integrates most of the core functions into a single chip. Examples include:
+Qualcomm Snapdragon
+Apple A-series (e.g., A17 Bionic)
+Samsung Exynos
+MediaTek Dimensity or Helio
+Huawei Kirin
+
+
+2:::Central Processing Unit (CPU): The CPU handles general processing tasks.
+
+ARM Cortex series
+Apple CPU cores (used in A-series chips)
+Custom Qualcomm Kryo cores
+
+
+3:::Graphics Processing Unit (GPU): Responsible for rendering graphics.
+
+ARM Mali
+Qualcomm Adreno
+Apple’s GPU (integrated in A-series SoCs)
+PowerVR
+
+
+4:::Memory (RAM): Temporary storage for active tasks.
+
+LPDDR4x / LPDDR5 (latest standards for mobile RAM)
+Storage: Internal storage for apps and data.
+
+eMMC (slower, budget devices)
+UFS 2.1/3.0/3.1 (Universal Flash Storage, faster and common in modern phones)
+
+
+5::Display: Includes various types of screens.
+
+AMOLED (Samsung’s Super AMOLED)
+LCD (IPS LCD)
+OLED (Organic LED)
+
+
+6:::Battery: Provides power, usually measured in milliampere-hours (mAh).
+
+Li-ion (Lithium-ion)
+Li-polymer (Lithium-polymer)
+
+
+7:::Camera Sensors: Handle photography and videography.
+
+Sony Exmor series
+Samsung ISOCELL series
+OmniVision
+
+
+8:::Modems: Enable mobile network connectivity.
+
+Qualcomm X series modems (e.g., X55, X60)
+Intel modems (used in older iPhones)
+Samsung modems
+
+
+9:::Sensors: Detect various environmental inputs and user actions.
+
+Accelerometer
+Gyroscope
+Proximity sensor
+Ambient light sensor
+Magnetometer (compass)
+Barometer
+Fingerprint scanner
+Wireless Communication:
+Wi-Fi chip (Wi-Fi 6, 6E, etc.)
+Bluetooth chip (Bluetooth 5.0, 5.1)
+NFC (Near-Field Communication)
+
+
+10::Power Management IC (PMIC): Manages power distribution.
+
+11::Audio:
+
+DAC (Digital-to-Analog Converter)
+Audio amplifier chips
+SIM Card Slot: For network connectivity, supporting eSIM or physical SIMs.

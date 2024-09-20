@@ -1,0 +1,54 @@
+⌨️ (00:00) Introduction
+⌨️ (00:39) Computer Architecture (Disk Storage, RAM, Cache, CPU)
+⌨️ (04:22) Production App Architecture (CI/CD, Load Balancers, Logging & Monitoring)
+⌨️ (07:12) Design Requirements (CAP Theorem, Throughput, Latency, SLOs and SLAs)
+⌨️ (14:40) Networking (TCP, UDP, DNS, IP Addresses & IP Headers)
+⌨️ (19:03) Application Layer Protocols (HTTP, WebSockets, WebRTC, MQTT, etc)
+⌨️ (24:01) API Design
+⌨️ (29:19) Caching and CDNs
+⌨️ (36:33) Proxy Servers (Forward/Reverse Proxies)
+⌨️ (42:36) Load Balancers
+⌨️ (48:05) Databases (Sharding, Replication, ACID, Vertical & Horizontal Scaling)
+
+
+
+
+
+Introduction (00:00): Overview of the concepts and topics that will be discussed
+ in the session.
+
+Computer Architecture (00:39): Covers fundamental components of a 
+computer system such as disk storage, RAM, cache, and CPU, and how they interact.
+
+Production App Architecture (04:22): Discusses the architecture of 
+applications in production environments, focusing on CI/CD (Continuous 
+Integration/Continuous Deployment), load balancers, and logging & monitoring tools.
+
+Design Requirements (07:12): Explores key system design principles such as
+ the CAP theorem, throughput, latency, and service-level objectives (SLOs)
+  and agreements (SLAs).
+
+
+Networking (14:40): Explains networking fundamentals like TCP,
+ UDP, DNS, IP addresses, and IP headers.
+
+Application Layer Protocols  Discusses different 
+protocols used at the application layer such as HTTP, WebSockets, WebRTC, and MQTT.
+
+
+API Design (24:01): Provides guidelines and best practices
+ for designing APIs.
+
+Caching and CDNs (29:19): Covers caching strategies and content delivery 
+networks (CDNs) to optimize performance and scalability.
+
+Proxy Servers (36:33): Differentiates between forward and reverse proxy 
+servers and explains their roles in a network.
+
+Load Balancers (42:36): Explains how load balancers distribute traffic
+ across multiple servers to ensure high availability and reliability.
+
+Databases (48:05): Discusses database design and scaling strategies such 
+as sharding, replication, ACID (Atomicity, Consistency, Isolation, Durability)
+ properties, and vertical vs. horizontal scaling.
+ 

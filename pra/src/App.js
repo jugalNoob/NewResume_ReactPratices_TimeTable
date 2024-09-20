@@ -2,12 +2,16 @@ import React from 'react'
 import {
   createBrowserRouter, RouterProvider
 } from 'react-router-dom'
-import API from "./page/API"
+import Usedstate from "./page/AllState/Usestate"
 import Error from "./page/Error"
 import Home from "./page/Home"
-import Product from "./page/Product"
-import Progbar from './page/Progbar'
-import Todo from './page/Todo'
+import Usecall from "./page/Performance/Usecallback"
+import UseMemo from "./page/Performance/UseMemo"
+import API from "./page/project/API"
+import Logout from './page/project/Logout'
+import Product from "./page/project/Product"
+import Progbar from './page/project/Progbar'
+import Todo from './page/project/Todo'
 
 
 
@@ -50,6 +54,35 @@ errorElement:<Error/>
   element: <Todo /> 
 
 },
+
+{
+  
+  path: "par",
+  element: <UseMemo /> 
+
+},
+
+{
+  
+  path: "out",
+  element: <Logout /> 
+
+},
+
+
+{
+  
+  path: "call",
+  element: <Usecall /> 
+
+},
+
+{
+
+  path:"calls",
+  element:<Usedstate/>
+}
+
 ])
 
 

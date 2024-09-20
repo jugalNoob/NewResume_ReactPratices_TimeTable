@@ -45,6 +45,16 @@ console.log(id)
 <NavLink to="/api">api</NavLink>
 <br />
 <NavLink to="/todo">Todo List</NavLink>
+
+<br />
+<NavLink to="/par">Practices jugal</NavLink>
+
+<br />
+<NavLink to="/out">logout</NavLink>
+
+<br />
+<NavLink to="/calls">useState</NavLink>
+<h1>karans hsrma</h1>
     </div>
   )
 }

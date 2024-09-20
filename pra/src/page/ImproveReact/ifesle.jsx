@@ -1,3 +1,6 @@
+// simple if else statemet 
+
+
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import CircularProgress from '@mui/material/CircularProgress';
@@ -29,10 +32,9 @@ export default App;
 
 
 
-https://mui.com/material-ui/react-progress/
-
-
-import React, { useCallback, useState, useEffect } from 'react';
+// https://mui.com/material-ui/react-progress/
+/// if-else with loading animation 
+import React, { useCallback } from 'react';
 function App() {
   const [ones, setOnes] = useState(false);
   const [isLoaded, setLoading] = useState(true);
@@ -73,7 +75,6 @@ function App() {
     </div>
   );
 }
-
 export default App;
 
 
@@ -81,7 +82,7 @@ export default App;
 
 
 
-|||||||||||If Else|||||||||||||||
+//  is else terional --------------->
 
     import React from 'react';
 
@@ -104,21 +105,62 @@ function App() {
 
 
 
+/// is else your in return value and  ----------------->>>
+import React from 'react';
+
+function Logout() {
+
+    const username = localStorage.getItem('username');
+console.log(username); // Outputs: JohnDoe
+    // Check if a user is logged in
+    if (username) {
+        console.log("login: " + username);
+        return (
+            <>
+                <h1>jugal sharma</h1>
+            </>
+        );
+    } else {
+        return (
+            <>
+                <h1>Logout </h1>
+            </>
+        );
+    }
+}
+
+export default Logout;
+
+
+/// ------------>if else with use statement -------------->
 import React from 'react';
 
 function App() {
-  const [showElement, setShowElement] = useState(false);
-
-  const handleClick = () => {
-    setShowElement(!showElement);
-  };
-
+  useCallback(()=>{
+    return<>
+<h1>jugal sharma</h1>
+<h1>{add } i am add</h1>
+    </>
+  } , [])
+  // useEffect re-render Stop  working  
+  console.log("jugal sharma re-render")
+  useEffect(()=>{
+    console.log("jugal sharma effect render" )
+  }, [])
+  // Tipes and tricks with useStatic
+  const [add, setAdd] = useState(18);
+  function Change() {
+    setAdd(!add);
+  }
   return (
     <div>
-      <button onClick={handleClick}>
-        {showElement ? 'Hide Element' : 'Show Element'}
-      </button>
-      {showElement && <p>This is the element to be shown or hidden.</p>}
+    <input type="file" name="" id="" />
+<h1 style={{color:add ? "red" : "blue"}}>my fuck</h1>
+      <h1>{add ? "true" : "false"}</h1>
+      <button onClick={Change}>{add ? "light" : "dark"}</button>
     </div>
   );
 }
+export default App;
+
+

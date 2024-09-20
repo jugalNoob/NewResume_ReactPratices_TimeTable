@@ -1,0 +1,73 @@
+1:: what is System design Process in software ?
+ 
+2:: Monolithic Architecture?
+
+3::Difference between monolithic and microservices architecture in Hindi
+
+4::What is latency in networking in Hindi | How to reduce latency in network | CDN vs Caching
+
+5::What is throughput in Hindi ? ( How to improve throughput ?
+
+6::What is throughput in Hindi ? ( How to improve throughput ? )
+
+7::What is Consistency in System Design in Hindi ( Strong vs Eventual Consistency 
+
+8::What is CAP theorem in Hindi ?
+
+9::What is Lamport Logical Clock ?
+
+10::Difference between horizontal and vertical scaling in Hindi
+
+11::Difference between Redundancy and Replication in Hindi ( Master - Slave Replication )
+
+12::What is load balancer and How it works in Hindi ( Load Balancing Algorithms in Hindi)
+
+13::What is Caching in Hindi (Complete Explanation)
+
+14::Cache Eviction Techniques in Hindi ( LRU, LFU, MRU, LIFO, FIFO & RR )
+
+15::File based storage system in Hindi ( File Based Database Management System in Hindi )
+
+16::Can RDBMS scale horizontally in Hindi ? ( Why is it hard to scale relational database ? )
+
+17::Types of NoSQL Databases in Hindi ( Which one to use and where ? )
+
+18::what is Polyglot Persistence in Hindi ?
+
+19::What is denormalization in RDBMS in Hindi
+
+20::How does indexing work in Databases in Hindi ( How to optimize SQL Queries in Hindi )
+
+21::What is Synchronous communication in Hindi
+
+
+22::What is synchronous and asynchronous communication in Hindi
+
+
+23::What is message based communication in Hindi ?
+
+24::What is web server in Hindi
+
+25::What is communication protocol in computer network in Hindi
+
+26::REST API | SOA | Microservices architecture | Tier architecture
+
+27::Difference between Authentication and Authorization in Hindi
+
+28::Basic Authentication in Hindi
+
+29::Token Based Authentication in Hindi
+
+30::OAuth Authentication in Hindi
+
+31::Forward proxy and reverse proxy Explained in Hindi
+
+32::Reverse proxy server in Hindi
+
+
+33::URL shortener system design
+
+
+3:: what is architecture?
+
+Ans: internal design details for building the application;
