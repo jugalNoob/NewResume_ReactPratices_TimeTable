@@ -74,6 +74,29 @@
 // export default useStatess
 
 
+:::::::::::::::::::::: DarkMode :::::::::::::::::::::::::::::::::::::::::
+  // Tipes and tricks with useStatic
+  const [add, setAdd] = useState(18);
+  function Change() {
+    setAdd(!add);
+  }
+
+  return (      
+    <div>
+
+    <input type="file" name="" id="" />
+<h1 style={{color:add ? "red" : "blue"}}>my fuck</h1>
+      <h1>{add ? "true" : "false"}</h1>
+      <button onClick={Change}>{add ? "light" : "dark"}</button>
+    </div>
+  );
+}
+
+export default App;
+
+
+
+
 
 
 import React, { useEffect, useState } from 'react';
